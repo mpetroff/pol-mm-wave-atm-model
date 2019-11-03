@@ -1,5 +1,7 @@
 # Polarized millimeter-wave atmospheric emission model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3526651.svg)](https://doi.org/10.5281/zenodo.3526651)
+
 This code serves as a supplement to the paper titled _Two-year Cosmology Large Angular Scale Surveyor (CLASS) Observations: A First Detection of Atmospheric Circular Polarization at Q Band_. It simulates millimeter-wave atmospheric emission, including polarization. This emission is primarily from molecular oxygen, with emission by water vapor and the dry continuum also considered.
 
 The `src` directory contains the simulation source code, with the `simulation.py` script containing the simulation logic. The `constants.py` file defines constants used in the simulation, and the `wofz.py` and `wofz_cython.pyx` files provide a Numba-compatible interface to SciPy's `wofz` function.
