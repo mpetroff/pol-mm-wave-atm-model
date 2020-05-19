@@ -1,6 +1,7 @@
 # Polarized millimeter-wave atmospheric emission model
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3526651.svg)](https://doi.org/10.5281/zenodo.3526651)
+[![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4357%2Fab64e2-blue)](https://doi.org/10.3847/1538-4357/ab64e2)
 [![arXiv](https://img.shields.io/badge/arXiv-1911.01016-red)](https://arxiv.org/abs/1911.01016)
 
 This code serves as a supplement to the paper titled _Two-year Cosmology Large Angular Scale Surveyor (CLASS) Observations: A First Detection of Atmospheric Circular Polarization at Q Band_. It simulates millimeter-wave atmospheric emission, including polarization. This emission is primarily from molecular oxygen, with emission by water vapor and the dry continuum also considered.
@@ -25,4 +26,4 @@ This work is licensed under the [MIT License](https://opensource.org/licenses/MI
 
 This code was written by Matthew A. Petroff ([ORCID:0000-0002-4436-4215](https://orcid.org/0000-0002-4436-4215)).
 
-If using this work in the course of academic research, please cite Petroff et al. (2019), _Two-year Cosmology Large Angular Scale Surveyor (CLASS) Observations: A First Detection of Atmospheric Circular Polarization at Q Band_, [arXiv:1911.01016](https://arxiv.org/abs/1911.01016).
+If using this work in the course of academic research, please cite Petroff et al. (2020), _Two-year Cosmology Large Angular Scale Surveyor (CLASS) Observations: A First Detection of Atmospheric Circular Polarization at Q Band_, [doi:10.3847/1538-4357/ab64e2](https://doi.org/10.3847/1538-4357/ab64e2).
